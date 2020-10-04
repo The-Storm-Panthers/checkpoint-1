@@ -45,3 +45,9 @@ officer_id | count
 ```
 
 
+#### **q_4a**: How many Wrong Address allegations have been made?
+4 rows
+#### **q_4b**: How many Wrong Address allegations led to settlements?
+1 row
+#### **q_4c**: Are officers involved in Wrong Address allegations linked to related settlements?
+18 summaries
