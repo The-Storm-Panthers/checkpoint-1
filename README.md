@@ -2,10 +2,10 @@
 
 ### How to run our queries
 
-* Clone our directory (in a location you will remember) using `git clone insert_link_here`
+* Clone our directory (in a location you will remember) using `git clone https://github.com/The-Storm-Panthers/checkpoint-1.git`
 * Open your terminal, navigate to the directory you just cloned. Then cd into the src folder
 * For **q1_a**, un the following command: `psql -f q1_a.sql -h cpdb.cgod7egsd6vr.us-east-2.rds.amazonaws.com -U cpdb-student -d cpdb -p 5432`
-    - If you are prompted for a password, enter the following: ***datasci4lyf**
+    - If you are prompted for a password, enter the following: **datasci4lyf**
     - If typing the password in doesn't work, try to copy-and-paste it
 * Repeat the above steps for each of our questions, replacing **q1_a.sql** with the corresponding file name. Here is a complete list of our SQL files that need to be executed:
     - q_1a
