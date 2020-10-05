@@ -74,6 +74,7 @@ home_invasion_allegation_count
  1082289       | 46XX  | West JACKSON BLVD #1A             | CHICAGO ILLINOIS 60644  | 2016-09-16 00:00:00+00 | Apartment
  1082289       | 46XX  | West JACKSON BLVD #1A             | CHICAGO ILLINOIS 60644  | 2016-09-16 00:00:00+00 | Apartment
  1082289       | 46XX  | West JACKSON BLVD #1A             | CHICAGO ILLINOIS 60644  | 2016-09-16 00:00:00+00 | Apartment
+(... and more rows)
 ```
 
 #### **q_4a**: How many Wrong Address allegations have been made?
